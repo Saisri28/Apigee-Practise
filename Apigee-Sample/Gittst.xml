@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="Gittst">
+    <Basepaths>/gittst</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1655453776059</CreatedAt>
+    <CreatedBy>tvinaysree@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Gittst</DisplayName>
+    <LastModifiedAt>1655453776059</LastModifiedAt>
+    <LastModifiedBy>tvinaysree@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:de81cfd522510db91055144c1b266c66273dd1c9f583f881ab627cda162738d779070f17a935f9e811204b06e180d1e2b7a3b0d0555242458e5751330ab43cda:ap-southeast-2</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
